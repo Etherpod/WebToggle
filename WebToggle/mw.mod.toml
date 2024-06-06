@@ -1,0 +1,12 @@
+dependencies = []
+incompatibilities = []
+
+[metadata]
+id = "com.etherpod.webtoggle"
+version = "1.0.0"
+title = "Web Toggle"
+description = "A SpiderHeck mod that lets keyboard players toggle between WASD and mouse webbing."
+authors = [
+    "Etherpod"
+]
+game_version = 1.6
